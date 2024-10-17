@@ -14,20 +14,20 @@ Welcome to the repository for the Web Development Exam from the 3rd semester. Th
 
 
 ### 💻 Step 2: Open the Project in Your IDE
-1. Open your preferred IDE (e.g., Visual Studio Code, JetBrains Rider, etc.).
+1. Open your preferred IDE
 
-2. Load either the f1 folder (frontend) or the f1API folder (backend) into your IDE.
+2. Load either the `f1` folder (frontend) or the `f1API` folder (backend) into your IDE.
 
 3. Add the other folder to the workspace.
 
 
-### 🌐 Step 3: Setting up the Frontend (f1)
-1. Open a terminal in the f1 folder
+### 🌐 Step 3: Setting up the Frontend (`f1`)
+1. Open a terminal in the `f1` folder
    
 3.  npm install
 
 
-### ⚙️ Step 4: Running the Backend (f1API)
+### ⚙️ Step 4: Running the Backend (`f1API`)
 1. Open a terminal in the f1API folder.
 
 2. Run the following command to start the backend server:
@@ -35,8 +35,8 @@ Welcome to the repository for the Web Development Exam from the 3rd semester. Th
    dotnet run
 
 
-### 🌐 Step 3: Setting up the Frontend (f1)
-1. Open a terminal in the f1 folder
+### 🌐 Step 3: Setting up the Frontend (`f1`)
+1. Open a terminal in the `f1` folder
   
 2.  Install neccessary dependencies by running:
     ```bash
