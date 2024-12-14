@@ -22,7 +22,7 @@ Welcome to the repository for the Web Development Exam from the 3rd semester. Th
 
 
 ### ⚙️ Step 3: Running the Backend (`f1API`)
-1. Open a terminal in the f1API folder.
+1. Open a terminal in the `f1API` folder.
 
 2. Run the following command to start the backend server:
    ```bash
