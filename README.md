@@ -21,13 +21,7 @@ Welcome to the repository for the Web Development Exam from the 3rd semester. Th
 3. Add the other folder to the workspace.
 
 
-### 🌐 Step 3: Setting up the Frontend (`f1`)
-1. Open a terminal in the `f1` folder
-   
-3.  npm install
-
-
-### ⚙️ Step 4: Running the Backend (`f1API`)
+### ⚙️ Step 3: Running the Backend (`f1API`)
 1. Open a terminal in the f1API folder.
 
 2. Run the following command to start the backend server:
@@ -35,7 +29,7 @@ Welcome to the repository for the Web Development Exam from the 3rd semester. Th
    dotnet run
 
 
-### 🌐 Step 3: Setting up the Frontend (`f1`)
+### 🌐 Step 4: Setting up the Frontend (`f1`)
 1. Open a terminal in the `f1` folder
   
 2.  Install neccessary dependencies by running:
